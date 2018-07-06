@@ -20,11 +20,17 @@ Buyers of recyclables deal directly with individual or small groups of pickers. 
 
 ### Recycling companies
 
-Better organisation and efficiency of pickers should result in better yields and more reliable supply. In addition, this project aims to remove the need to deal in cash with it's associated risks.
+Better organisation and efficiency of pickers should result in better yields and more reliable supply. In addition, this project aims to remove the need to deal in cash with its associated risks.
 
 ## Main features
 
-- xxx
+- Record collections for individual pickers.
+- Provide visibility of inventory at each collection site.
+- Remove cash form the system with its associated risks.
+
+## Support project
+
+TBD
 
 ## Contact
 
